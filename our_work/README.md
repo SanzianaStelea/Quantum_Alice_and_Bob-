@@ -2,6 +2,9 @@
 
 This repository contains our solution to the Alice & Bob quantum state tomography challenge. We focus on reconstructing quantum states from Wigner function measurements, using both analytical tools and machine learning methods for denoising and analysis.
 
+[📽️ Presentation slides](https://docs.google.com/presentation/d/1FOOWI1NHk4QGAblLNFC49TzhWl1N2AyqAfvnWmAmztc/edit?slide=id.p#slide=id.p)
+
+
 ---
 
 ## 🔧 Structure
